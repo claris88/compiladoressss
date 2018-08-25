@@ -9,4 +9,5 @@ apartir de la tbla de simbolo el programa analiza los errores las palabras que n
 #  [isspace](http://manpages.ubuntu.com/manpages/trusty/es/man3/isalpha.3.html)
 # [ispunct](http://manpages.ubuntu.com/manpages/trusty/es/man3/isalpha.3.html)
 # [codigo] (https://i.imgur.com/UfbqmJU.png)
+# [Isalpha ](http://manpages.ubuntu.com/manpages/trusty/es/man3/isalpha.3.html)
 [resultado](https://i.imgur.com/LRsOZTI.png)
